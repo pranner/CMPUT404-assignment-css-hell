@@ -14,25 +14,25 @@ git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
 Gutenberg Files - Part I
 =========================
-The only changes made to the Gutenberg HTML files were removing their style tags and adding the links to the gutenberg.css file. 
+The only changes made to the Gutenberg HTML files were removing their style tags and adding the links to the gutenberg.css file.   
 
 External Sources Used
 ==========================
 
-Used http://www.glitter-graphics.com/graphics/178500 for the cursor image for bad CSS
+Used http://www.glitter-graphics.com/graphics/178500 for the cursor image for bad CSS  
 
-http://stackoverflow.com/questions/18551277/using-external-images-for-css-custom-cursors 
-Author: Josh Crozier
+http://stackoverflow.com/questions/18551277/using-external-images-for-css-custom-cursors   
+Author: Josh Crozier  
 
-http://stackoverflow.com/questions/18147887/html-layout-adding-sidebar-column-to-existing-site
-Author: Gary Kenyon
+http://stackoverflow.com/questions/18147887/html-layout-adding-sidebar-column-to-existing-site  
+Author: Gary Kenyon  
 
 Contributors / Licensing
 =================
 
-Collaborated with Aaron Padlesky
+Collaborated with Aaron Padlesky  
 
-Copyright 2015 Pranjali Pokharel
+Copyright 2015 Pranjali Pokharel  
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
